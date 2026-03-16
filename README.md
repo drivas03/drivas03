@@ -1,20 +1,20 @@
-# Hola 👋, soy Diego
+# Hola 👋, soy Diego Rivas
 
 🎓 Estudiante de universidad centroamericana
+
 💻 estudiando ingenieria informatica  
 🌎 Soy de El Salvador  
 
 ## Tecnologías que estoy aprendiendo
-- HTML
-- CSS
+- HTML ![HTML](https://img.shields.io/badge/HTML-orange)
+- CSS ![CSS](https://img.shields.io/badge/CSS-blue)
 - JavaScript
 - Git
 
 sobre mi: una persona colaborativa dispiuesta a aprender y entender cosas nuevas 🔥😄
 ## Contacto: 7759-7550
 📧 00051626@uca.edu.sv
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
+
 <!--!
 **drivas03/drivas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
